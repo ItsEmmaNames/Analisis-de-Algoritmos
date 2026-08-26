@@ -1,8 +1,0 @@
-git init
-git status
-git add. 
-
-git remote add https://github.com/ItsEmmaNames/Analisis-de-Algoritmos
-git remote comit -m "mi primer commit"
-git config user.mail "emmanuelortiz529@gmail.com"
-git push --set-upstream origin main
